@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ram-sah/restaurant/static/css/main.162d3dcb.css",
+    "main.js": "/ram-sah/restaurant/static/js/main.f3d873be.js",
+    "index.html": "/ram-sah/restaurant/index.html",
+    "main.162d3dcb.css.map": "/ram-sah/restaurant/static/css/main.162d3dcb.css.map",
+    "main.f3d873be.js.map": "/ram-sah/restaurant/static/js/main.f3d873be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162d3dcb.css",
+    "static/js/main.f3d873be.js"
+  ]
+}
