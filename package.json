@@ -1,5 +1,6 @@
 {
-  "name": "reactthapaapp",
+  "homepage": "https://github.com/ram-sah/restaurant",
+  "name": "restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
